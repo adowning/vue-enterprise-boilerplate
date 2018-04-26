@@ -25,6 +25,7 @@
   },
   "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
   "dependencies": {
+    "aws-amplify": "^0.3.3",
     "aws-appsync": "^1.0.12",
     "axios": "^0.18.0",
     "font-awesome": "^4.7.0",
